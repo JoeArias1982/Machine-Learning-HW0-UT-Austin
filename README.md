@@ -1,4 +1,4 @@
-# GitHub Portfolio
+# Homework 0 - Programming
  Projects
  Load the Wisconsin breast cancer data set, which is available as part of the sklearn datasets. You can read more about this dataset here.
 The questions below involve exploring the data by plotting some figures, and you will find libraries like numpy, matplotlib and seaborn very useful. You may want to read up on built in functions like where from numpy for finding indices (or index from pandas) and show, savefig from matplotlib to show and save your plots.
